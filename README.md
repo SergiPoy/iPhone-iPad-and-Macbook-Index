@@ -16,6 +16,14 @@ el màxim possible al nivell de vida de cada país. Es tracta d'Apple.
 És per això que volem extreure totes les dades dels productes icònics d'Apple, com són l'_Iphone_, l'_Ipad_ i el _Macbook_ per a poder fer a posteriori
 un índex a l'estil de l'_Índex Big Mac_.
 
+## Llibreries utilitzades
+- Beautiful Soup
+- csv
+- requests
+- json
+- pandas
+- re
+
 ## Membres de l'equip
 - Alejandro Tortosa
 - Sergi Poy
